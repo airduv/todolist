@@ -9,5 +9,10 @@
         "ejs": "*"
     },
     "author": "Mateo21 <mateo21@email.com>",
-    "description": "Un gestionnaire de todolist ultra basique (version d'origine : express 3.2.1, ejs 0.8.3"
+    "description": "Un gestionnaire de todolist ultra basique (version d'origine : express 3.2.1, ejs 0.8.3",
+    "devDependencies": {
+        "eslint": "^7.22.0",
+        "eslint-config-airbnb-base": "^14.2.1",
+        "eslint-plugin-import": "^2.22.1"
+    }
 }
