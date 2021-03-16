@@ -1,0 +1,13 @@
+{
+    "name": "ma-todolist",
+    "version": "0.1.0",
+    "dependencies": {
+        "express": "*",
+        "body-parser": "*",
+        "cookie-parser": "*",
+        "express-session": "*",
+        "ejs": "*"
+    },
+    "author": "Mateo21 <mateo21@email.com>",
+    "description": "Un gestionnaire de todolist ultra basique (version d'origine : express 3.2.1, ejs 0.8.3"
+}
